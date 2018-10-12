@@ -1,0 +1,48 @@
+PODS:
+  - IHKeyboardAvoiding (4.2)
+  - LFLiveKit (2.6)
+  - R.swift (4.0.0):
+    - R.swift.Library (~> 4.0.0)
+  - R.swift.Library (4.0.0)
+  - Socket.IO-Client-Swift (13.3.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+  - SVProgressHUD (2.2.5)
+  - TextAttributes (1.0)
+  - TextAttributesUtil (1.0.1):
+    - TextAttributes
+
+DEPENDENCIES:
+  - IHKeyboardAvoiding
+  - LFLiveKit
+  - R.swift
+  - Socket.IO-Client-Swift (~> 13.3.0)
+  - SVProgressHUD
+  - TextAttributesUtil
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IHKeyboardAvoiding
+    - LFLiveKit
+    - R.swift
+    - R.swift.Library
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SVProgressHUD
+    - TextAttributes
+    - TextAttributesUtil
+
+SPEC CHECKSUMS:
+  IHKeyboardAvoiding: 9fbf816b7c3c84911964802ff110d12caf40ebef
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  R.swift: d6a5ec2f55a8441dc0ed9f1f8b37d7d11ae85c66
+  R.swift.Library: c3af34921024333546e23b70e70d0b4e0cffca75
+  Socket.IO-Client-Swift: 0afb192a562db90d50e3f7f7421c06925a3f0179
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TextAttributes: 45b2713a1d174c377d320b51129c304eac381638
+  TextAttributesUtil: feb551ff3cccaa82ac6fd35db2cef0ed1146c21d
+
+PODFILE CHECKSUM: 6a2a722abde350fe96bf048d05b7b746b069d4d6
+
+COCOAPODS: 1.5.3
